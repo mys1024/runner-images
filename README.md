@@ -1,6 +1,6 @@
 # runner-images
 
-TBD.
+Custom runner images based on "docker.io/gitea/runner-images".
 
 ## License
 
